@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <br><br>
 </div>
 
-## Hello World! 👋👋
+## 👋 Hello World! 👋
 ### This is About Me..
 
 Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (*still learning to be a*) Software Engineer that specialized in *frontend* side, but also have an ability to code in *backend* side. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
