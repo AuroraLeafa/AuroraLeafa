@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Refansyach's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuroraLeafa&show_icons=true&theme=tokyonight)
+
 ## Hello World! 👋👋
 ### This is About Me..
 
