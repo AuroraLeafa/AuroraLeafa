@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
 ![Refansyach's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuroraLeafa&show_icons=true&theme=tokyonight)
+</div>
 
 ## Hello World! 👋👋
 ### This is About Me..
