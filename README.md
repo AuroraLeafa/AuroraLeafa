@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello World!
+### This is About Me..
+
 
 <!--
 **AuroraLeafa/AuroraLeafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- Hello, My Name is Refansyach Sugianto
+- I'm a Tech and Game Enthusiasts
+- 🌱 I'm Currently learning about Web Programming(UI/UX and Full Stack) also Software Engineering (Wish me luck xDD)
+- 📫 You can reach me through my social medias:
+- [STEAM](https://www.steamcommunity.com/id/FakeHades)
+- [Instagram](https://www.instagram.com/revansahdragunov)
+- [Twitter](https://www.twitter.com/AuroraLeafa)
+- 😄 Pronouns: He/Him
