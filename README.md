@@ -32,11 +32,13 @@ Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (*still le
 
 
 ### 📫 You can reach me through my social medias:
-- Email     : [revansahdr@gmail.com](mailto:revansahdr@gmail.com)
+
 - LinkedIn  : [Refansyach](https://www.linkedin.com/in/refansyach/)
 - Instagram : [revansahdragunov](https://www.instagram.com/revansahdragunov)
+<!--
+- Email     : [revansahdr@gmail.com](mailto:revansahdr@gmail.com)
 - Twitter   : [AuroraLeafa](https://www.twitter.com/AuroraLeafa)
-
+-->
 - 😄 Pronouns: He/Him
 
 ---
