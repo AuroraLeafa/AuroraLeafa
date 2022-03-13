@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 </div>
 
 ## 👋 Hello World! 👋
-### This is About Me..
+### About Me..
 
-Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (*still learning to be a*) Software Engineer that specialized in *frontend* side, but also have an ability to code in *backend* side. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
+Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (*still learning to be a*) Software and Web Engineer that specialized in *frontend* side, but also have an ability to code in *backend* side. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
 - I'm a Movie, Game, and Tech Enthusiasts
 
 ## 🔍 Currently Learning:
