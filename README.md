@@ -26,7 +26,7 @@ Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (*still le
 
 ## 🔍 Currently Learning:
 - CSS PreProcessors (*SASS*)
-- Javascript Frameworks (*Node.Js, Next.Js, React.Js*)
+- Javascript Frameworks/Libraries (*Node.Js, Next.Js, React.Js*)
 - Flutter 
 - UI/UX Design
 - More Frontend Development Complexity
