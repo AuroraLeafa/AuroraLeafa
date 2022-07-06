@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 </div>
 
 ## 👋 Hello World! 👋
-<!--
+
 ### About Me..
 
 Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (*still learning to be a*) Software and Web Engineer that specialized in *frontend* side, but also have an ability to code in *backend* side. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
--->
+
 - I'm a Movie, Game, and Tech Enthusiasts
 
 ## 🔍 Currently Learning:
@@ -32,7 +32,6 @@ Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (*still le
 - Flutter
 - More Web Development Complexity
 
-<!--
 ### 📫 You can reach me through my social medias:
 
 - LinkedIn  : [Refansyach](https://www.linkedin.com/in/refansyach/)
@@ -40,7 +39,7 @@ Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (*still le
 
 - Twitter   : [AuroraLeafa](https://www.twitter.com/AuroraLeafa)
 - Email     : [revansahdr@gmail.com](mailto:revansahdr@gmail.com)
--->
+
 - 😄 Pronouns: He/Him
 
 ---
