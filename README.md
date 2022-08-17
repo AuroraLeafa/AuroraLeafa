@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AuroraLeafa&show_icons=true&theme=tokyonight" alt="Refansyach's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraLeafa&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AuroraLeafa&show_icons=true&theme=tokyonight" alt="Refansyach's GitHub stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraLeafa&layout=compact&theme=tokyonight" />
   <br><br>
 </div>
 
