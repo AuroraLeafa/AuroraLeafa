@@ -45,10 +45,13 @@ Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (still lea
 - Javascript Frameworks/Libraries (*Node.Js, Next.Js, React.Js*)
 - Flutter
 - More Web Development Complexity
+
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AuroraLeafa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AuroraLeafa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraLeafa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+-->
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -58,4 +61,4 @@ Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (still lea
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-© 2022 — Refansyach Sugianto
+© 2023 — Refansyach Sugianto
