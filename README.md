@@ -23,6 +23,7 @@ Hello... My name is Refansyach Sugianto, you can call me "Refan". I'm (still lea
 ## 🔍 Currently Learning:
 - CSS PreProcessors (*SASS*)
 - Javascript Frameworks/Libraries (*Express.Js, Next.Js, React.Js*)
+- TypeScript, also its usage on JS Frameworks/Libraries
 - Flutter
 - Golang (*Fiber*)
 - More Web & Mobile Development Complexity
